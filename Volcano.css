@@ -1,1 +1,13 @@
-p{}
+@import url('https://fonts.googleapis.com/css?family=Overlock|Share+Tech+Mono|VT323');
+body{background-color:#000;}
+p{
+	color:#ffa500;
+	font-family:'VT323', monospace;
+}
+volcano{
+	font-style: bold;
+	font-family: 'Overlock', cursive;
+}
+date{
+	font-family: 'Share Tech Mono', monospace;
+}
