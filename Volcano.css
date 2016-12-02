@@ -4,10 +4,10 @@ p{
 	color:#ffa500;
 	font-family:'VT323', monospace;
 }
-volcano{
+.volcano{
 	font-style: bold;
 	font-family: 'Overlock', cursive;
 }
-date{
+.date{
 	font-family: 'Share Tech Mono', monospace;
 }
